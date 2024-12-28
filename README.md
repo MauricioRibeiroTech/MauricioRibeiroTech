@@ -1,6 +1,7 @@
 # Mauricio Ribeiro
 
-My name is Mauricio Ap. Ribeiro, i'm from 🇧🇷 , my training is focused on exact areas 🖥️. I use programming to perform numerical analysis. However, I am a programming enthusiast and constantly learning. In this repository I will cover scripts to analyze the non-linear dynamic behavior of systems applied in engineering, physics, mathematics, chemistry and biology.
+My name is Mauricio, I am Brazilian, my background is focused on exact sciences. I have a PhD in Theoretical Physics, and I am a professor and analyst of nonlinear dynamic systems.
+
 
 ## My Skills 
  
