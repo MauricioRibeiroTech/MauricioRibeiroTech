@@ -35,24 +35,19 @@ My name is Mauricio, I am Brazilian, my background is focused on exact sciences.
 
 [![project](https://img.shields.io/badge/Anna-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Anna/)-->
   
-## Social Networks
-  
+
+ <!--
 [![social1](https://img.shields.io/badge/Instagram--blue?style=social&logo=instagram&logoColor=black&?logoWidth=40)](https://www.instagram.com/invites/contact/?i=as4hochvm1h9&utm_content=h1theyd)
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioRibeiroTech&show_icons=true&theme=radical)
-
+-->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MauricioRibeiroTech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MauricioRibeiroTech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MauricioRibeiroTech/MauricioRibeiroTech/output/snake.svg" alt="Snake animation" />
-
-###
-
+## Skills 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
